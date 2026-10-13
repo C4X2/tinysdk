@@ -1,0 +1,8 @@
+{
+  "url": "#{url}",
+  "domain": "#{domain}",
+  "alias": "#{alias}",
+  "tags": "#{tags}",
+  "expires_at": "#{expiresAt}",
+  "description": "#{description}"
+}

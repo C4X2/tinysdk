@@ -1,0 +1,12 @@
+{
+  "domain": "#{domain}",
+  "alias": "#{alias}",
+  "new_domain": "#{new_domain}",
+  "new_alias": "#{new_alias}",
+  "new_stats": #{new_stats},
+  "new_tags": [
+      #{new_tags}
+  ],
+  "new_expires_at": "#{new_expires_at}",
+  "new_description": "#{new_description}"
+}
